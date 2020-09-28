@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{YoGX:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));var a=t("q1tI"),r=t.n(a),u=t("RMg3");function c(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(u.a,null),r.a.createElement("h1",null,"This is phone project!"))}}}]);
+//# sourceMappingURL=component---src-pages-phone-project-js-9ccb63ee6700afdbc7a2.js.map

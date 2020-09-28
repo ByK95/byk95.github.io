@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{gSir:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return c}));var a=t("q1tI"),r=t.n(a),u=t("RMg3");function c(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(u.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-bookmark-js-380bc98f754dec65b6cf.js.map
